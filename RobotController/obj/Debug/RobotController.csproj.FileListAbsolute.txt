@@ -1,0 +1,192 @@
+C:\Users\teamn\Desktop\Table Wiping (ver2.7)\Program\RobotController\obj\Debug\RobotController.csproj.AssemblyReference.cache
+C:\Users\teamn\Desktop\Table Wiping (ver2.7)\Program\RobotController\obj\Debug\MainWindow.g.cs
+C:\Users\teamn\Desktop\Table Wiping (ver2.7)\Program\RobotController\obj\Debug\Simulator.g.cs
+C:\Users\teamn\Desktop\Table Wiping (ver2.7)\Program\RobotController\obj\Debug\App.g.cs
+C:\Users\teamn\Desktop\Table Wiping (ver2.7)\Program\RobotController\obj\Debug\RobotController_MarkupCompile.cache
+C:\Users\teamn\Desktop\Table Wiping (ver2.7)\Program\RobotController\obj\Debug\RobotController_MarkupCompile.lref
+C:\Users\teamn\Desktop\Table Wiping (ver2.7)\Program\RobotController\bin\Debug\RobotController.exe.config
+C:\Users\teamn\Desktop\Table Wiping (ver2.7)\Program\RobotController\bin\Debug\RobotController.exe
+C:\Users\teamn\Desktop\Table Wiping (ver2.7)\Program\RobotController\bin\Debug\RobotController.pdb
+C:\Users\teamn\Desktop\Table Wiping (ver2.7)\Program\RobotController\bin\Debug\OpenTK.dll
+C:\Users\teamn\Desktop\Table Wiping (ver2.7)\Program\RobotController\bin\Debug\OpenTK.GLControl.dll
+C:\Users\teamn\Desktop\Table Wiping (ver2.7)\Program\RobotController\bin\Debug\OpenTK.pdb
+C:\Users\teamn\Desktop\Table Wiping (ver2.7)\Program\RobotController\bin\Debug\OpenTK.xml
+C:\Users\teamn\Desktop\Table Wiping (ver2.7)\Program\RobotController\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\teamn\Desktop\Table Wiping (ver2.7)\Program\RobotController\bin\Debug\OpenTK.GLControl.xml
+C:\Users\teamn\Desktop\Table Wiping (ver2.7)\Program\RobotController\obj\Debug\MainWindow.baml
+C:\Users\teamn\Desktop\Table Wiping (ver2.7)\Program\RobotController\obj\Debug\Simulator.baml
+C:\Users\teamn\Desktop\Table Wiping (ver2.7)\Program\RobotController\obj\Debug\RobotController.g.resources
+C:\Users\teamn\Desktop\Table Wiping (ver2.7)\Program\RobotController\obj\Debug\RobotController.Properties.Resources.resources
+C:\Users\teamn\Desktop\Table Wiping (ver2.7)\Program\RobotController\obj\Debug\RobotController.csproj.GenerateResource.cache
+C:\Users\teamn\Desktop\Table Wiping (ver2.7)\Program\RobotController\obj\Debug\RobotController.csproj.CoreCompileInputs.cache
+C:\Users\teamn\Desktop\Table Wiping (ver2.7)\Program\RobotController\obj\Debug\RobotCon.B40FEA36.Up2Date
+C:\Users\teamn\Desktop\Table Wiping (ver2.7)\Program\RobotController\obj\Debug\RobotController.exe
+C:\Users\teamn\Desktop\Table Wiping (ver2.7)\Program\RobotController\obj\Debug\RobotController.pdb
+C:\Users\brack\Desktop\Table Wiping (ver2.7)\Program\RobotController\bin\Debug\RobotController.exe.config
+C:\Users\brack\Desktop\Table Wiping (ver2.7)\Program\RobotController\bin\Debug\RobotController.exe
+C:\Users\brack\Desktop\Table Wiping (ver2.7)\Program\RobotController\bin\Debug\RobotController.pdb
+C:\Users\brack\Desktop\Table Wiping (ver2.7)\Program\RobotController\bin\Debug\OpenTK.dll
+C:\Users\brack\Desktop\Table Wiping (ver2.7)\Program\RobotController\bin\Debug\OpenTK.GLControl.dll
+C:\Users\brack\Desktop\Table Wiping (ver2.7)\Program\RobotController\bin\Debug\OpenTK.pdb
+C:\Users\brack\Desktop\Table Wiping (ver2.7)\Program\RobotController\bin\Debug\OpenTK.xml
+C:\Users\brack\Desktop\Table Wiping (ver2.7)\Program\RobotController\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\brack\Desktop\Table Wiping (ver2.7)\Program\RobotController\bin\Debug\OpenTK.GLControl.xml
+C:\Users\brack\Desktop\Table Wiping (ver2.7)\Program\RobotController\obj\Debug\RobotController.csproj.AssemblyReference.cache
+C:\Users\brack\Desktop\Table Wiping (ver2.7)\Program\RobotController\obj\Debug\MainWindow.g.cs
+C:\Users\brack\Desktop\Table Wiping (ver2.7)\Program\RobotController\obj\Debug\Simulator.g.cs
+C:\Users\brack\Desktop\Table Wiping (ver2.7)\Program\RobotController\obj\Debug\App.g.cs
+C:\Users\brack\Desktop\Table Wiping (ver2.7)\Program\RobotController\obj\Debug\RobotController_MarkupCompile.cache
+C:\Users\brack\Desktop\Table Wiping (ver2.7)\Program\RobotController\obj\Debug\RobotController_MarkupCompile.lref
+C:\Users\brack\Desktop\Table Wiping (ver2.7)\Program\RobotController\obj\Debug\MainWindow.baml
+C:\Users\brack\Desktop\Table Wiping (ver2.7)\Program\RobotController\obj\Debug\Simulator.baml
+C:\Users\brack\Desktop\Table Wiping (ver2.7)\Program\RobotController\obj\Debug\RobotController.g.resources
+C:\Users\brack\Desktop\Table Wiping (ver2.7)\Program\RobotController\obj\Debug\RobotController.Properties.Resources.resources
+C:\Users\brack\Desktop\Table Wiping (ver2.7)\Program\RobotController\obj\Debug\RobotController.csproj.GenerateResource.cache
+C:\Users\brack\Desktop\Table Wiping (ver2.7)\Program\RobotController\obj\Debug\RobotController.csproj.CoreCompileInputs.cache
+C:\Users\brack\Desktop\Table Wiping (ver2.7)\Program\RobotController\obj\Debug\RobotController.csproj.CopyComplete
+C:\Users\brack\Desktop\Table Wiping (ver2.7)\Program\RobotController\obj\Debug\RobotController.exe
+C:\Users\brack\Desktop\Table Wiping (ver2.7)\Program\RobotController\obj\Debug\RobotController.pdb
+C:\Users\teamn\Desktop\Table Wiping-exp (ver2.7)\Program\RobotController\bin\Debug\RobotController.exe.config
+C:\Users\teamn\Desktop\Table Wiping-exp (ver2.7)\Program\RobotController\bin\Debug\RobotController.exe
+C:\Users\teamn\Desktop\Table Wiping-exp (ver2.7)\Program\RobotController\bin\Debug\RobotController.pdb
+C:\Users\teamn\Desktop\Table Wiping-exp (ver2.7)\Program\RobotController\bin\Debug\OpenTK.dll
+C:\Users\teamn\Desktop\Table Wiping-exp (ver2.7)\Program\RobotController\bin\Debug\OpenTK.GLControl.dll
+C:\Users\teamn\Desktop\Table Wiping-exp (ver2.7)\Program\RobotController\bin\Debug\OpenTK.pdb
+C:\Users\teamn\Desktop\Table Wiping-exp (ver2.7)\Program\RobotController\bin\Debug\OpenTK.xml
+C:\Users\teamn\Desktop\Table Wiping-exp (ver2.7)\Program\RobotController\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\teamn\Desktop\Table Wiping-exp (ver2.7)\Program\RobotController\bin\Debug\OpenTK.GLControl.xml
+C:\Users\teamn\Desktop\Table Wiping-exp (ver2.7)\Program\RobotController\obj\Debug\RobotController.csproj.AssemblyReference.cache
+C:\Users\teamn\Desktop\Table Wiping-exp (ver2.7)\Program\RobotController\obj\Debug\MainWindow.g.cs
+C:\Users\teamn\Desktop\Table Wiping-exp (ver2.7)\Program\RobotController\obj\Debug\Simulator.g.cs
+C:\Users\teamn\Desktop\Table Wiping-exp (ver2.7)\Program\RobotController\obj\Debug\App.g.cs
+C:\Users\teamn\Desktop\Table Wiping-exp (ver2.7)\Program\RobotController\obj\Debug\RobotController_MarkupCompile.cache
+C:\Users\teamn\Desktop\Table Wiping-exp (ver2.7)\Program\RobotController\obj\Debug\RobotController_MarkupCompile.lref
+C:\Users\teamn\Desktop\Table Wiping-exp (ver2.7)\Program\RobotController\obj\Debug\MainWindow.baml
+C:\Users\teamn\Desktop\Table Wiping-exp (ver2.7)\Program\RobotController\obj\Debug\Simulator.baml
+C:\Users\teamn\Desktop\Table Wiping-exp (ver2.7)\Program\RobotController\obj\Debug\RobotController.g.resources
+C:\Users\teamn\Desktop\Table Wiping-exp (ver2.7)\Program\RobotController\obj\Debug\RobotController.Properties.Resources.resources
+C:\Users\teamn\Desktop\Table Wiping-exp (ver2.7)\Program\RobotController\obj\Debug\RobotController.csproj.GenerateResource.cache
+C:\Users\teamn\Desktop\Table Wiping-exp (ver2.7)\Program\RobotController\obj\Debug\RobotController.csproj.CoreCompileInputs.cache
+C:\Users\teamn\Desktop\Table Wiping-exp (ver2.7)\Program\RobotController\obj\Debug\RobotCon.B40FEA36.Up2Date
+C:\Users\teamn\Desktop\Table Wiping-exp (ver2.7)\Program\RobotController\obj\Debug\RobotController.exe
+C:\Users\teamn\Desktop\Table Wiping-exp (ver2.7)\Program\RobotController\obj\Debug\RobotController.pdb
+C:\Users\rikuk\OneDrive\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\RobotController.exe.config
+C:\Users\rikuk\OneDrive\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\RobotController.exe
+C:\Users\rikuk\OneDrive\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\RobotController.pdb
+C:\Users\rikuk\OneDrive\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\OpenTK.dll
+C:\Users\rikuk\OneDrive\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\OpenTK.GLControl.dll
+C:\Users\rikuk\OneDrive\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\OpenTK.pdb
+C:\Users\rikuk\OneDrive\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\OpenTK.xml
+C:\Users\rikuk\OneDrive\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\rikuk\OneDrive\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\OpenTK.GLControl.xml
+C:\Users\rikuk\OneDrive\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController.csproj.AssemblyReference.cache
+C:\Users\rikuk\OneDrive\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\MainWindow.g.cs
+C:\Users\rikuk\OneDrive\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\Simulator.g.cs
+C:\Users\rikuk\OneDrive\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\App.g.cs
+C:\Users\rikuk\OneDrive\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController_MarkupCompile.cache
+C:\Users\rikuk\OneDrive\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController_MarkupCompile.lref
+C:\Users\rikuk\OneDrive\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\MainWindow.baml
+C:\Users\rikuk\OneDrive\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\Simulator.baml
+C:\Users\rikuk\OneDrive\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController.g.resources
+C:\Users\rikuk\OneDrive\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController.Properties.Resources.resources
+C:\Users\rikuk\OneDrive\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController.csproj.GenerateResource.cache
+C:\Users\rikuk\OneDrive\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController.csproj.CoreCompileInputs.cache
+C:\Users\rikuk\OneDrive\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotCon.B40FEA36.Up2Date
+C:\Users\rikuk\OneDrive\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController.exe
+C:\Users\rikuk\OneDrive\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController.pdb
+C:\Users\teamn\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\RobotController.exe.config
+C:\Users\teamn\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\RobotController.exe
+C:\Users\teamn\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\RobotController.pdb
+C:\Users\teamn\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\OpenTK.dll
+C:\Users\teamn\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\OpenTK.GLControl.dll
+C:\Users\teamn\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\OpenTK.pdb
+C:\Users\teamn\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\OpenTK.xml
+C:\Users\teamn\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\teamn\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\OpenTK.GLControl.xml
+C:\Users\teamn\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController.csproj.AssemblyReference.cache
+C:\Users\teamn\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\MainWindow.g.cs
+C:\Users\teamn\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\Simulator.g.cs
+C:\Users\teamn\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\App.g.cs
+C:\Users\teamn\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController_MarkupCompile.cache
+C:\Users\teamn\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController_MarkupCompile.lref
+C:\Users\teamn\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\MainWindow.baml
+C:\Users\teamn\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\Simulator.baml
+C:\Users\teamn\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController.g.resources
+C:\Users\teamn\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController.Properties.Resources.resources
+C:\Users\teamn\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController.csproj.GenerateResource.cache
+C:\Users\teamn\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController.csproj.CoreCompileInputs.cache
+C:\Users\teamn\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotCon.B40FEA36.Up2Date
+C:\Users\teamn\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController.exe
+C:\Users\teamn\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController.pdb
+C:\Users\teamn\Desktop\Table Wiping(ver2.7) - コピー\Program\RobotController\bin\Debug\RobotController.exe.config
+C:\Users\teamn\Desktop\Table Wiping(ver2.7) - コピー\Program\RobotController\bin\Debug\RobotController.exe
+C:\Users\teamn\Desktop\Table Wiping(ver2.7) - コピー\Program\RobotController\bin\Debug\RobotController.pdb
+C:\Users\teamn\Desktop\Table Wiping(ver2.7) - コピー\Program\RobotController\bin\Debug\OpenTK.dll
+C:\Users\teamn\Desktop\Table Wiping(ver2.7) - コピー\Program\RobotController\bin\Debug\OpenTK.GLControl.dll
+C:\Users\teamn\Desktop\Table Wiping(ver2.7) - コピー\Program\RobotController\bin\Debug\OpenTK.pdb
+C:\Users\teamn\Desktop\Table Wiping(ver2.7) - コピー\Program\RobotController\bin\Debug\OpenTK.xml
+C:\Users\teamn\Desktop\Table Wiping(ver2.7) - コピー\Program\RobotController\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\teamn\Desktop\Table Wiping(ver2.7) - コピー\Program\RobotController\bin\Debug\OpenTK.GLControl.xml
+C:\Users\teamn\Desktop\Table Wiping(ver2.7) - コピー\Program\RobotController\obj\Debug\RobotController.csproj.AssemblyReference.cache
+C:\Users\teamn\Desktop\Table Wiping(ver2.7) - コピー\Program\RobotController\obj\Debug\MainWindow.g.cs
+C:\Users\teamn\Desktop\Table Wiping(ver2.7) - コピー\Program\RobotController\obj\Debug\Simulator.g.cs
+C:\Users\teamn\Desktop\Table Wiping(ver2.7) - コピー\Program\RobotController\obj\Debug\App.g.cs
+C:\Users\teamn\Desktop\Table Wiping(ver2.7) - コピー\Program\RobotController\obj\Debug\RobotController_MarkupCompile.cache
+C:\Users\teamn\Desktop\Table Wiping(ver2.7) - コピー\Program\RobotController\obj\Debug\RobotController_MarkupCompile.lref
+C:\Users\teamn\Desktop\Table Wiping(ver2.7) - コピー\Program\RobotController\obj\Debug\MainWindow.baml
+C:\Users\teamn\Desktop\Table Wiping(ver2.7) - コピー\Program\RobotController\obj\Debug\Simulator.baml
+C:\Users\teamn\Desktop\Table Wiping(ver2.7) - コピー\Program\RobotController\obj\Debug\RobotController.g.resources
+C:\Users\teamn\Desktop\Table Wiping(ver2.7) - コピー\Program\RobotController\obj\Debug\RobotController.Properties.Resources.resources
+C:\Users\teamn\Desktop\Table Wiping(ver2.7) - コピー\Program\RobotController\obj\Debug\RobotController.csproj.GenerateResource.cache
+C:\Users\teamn\Desktop\Table Wiping(ver2.7) - コピー\Program\RobotController\obj\Debug\RobotController.csproj.CoreCompileInputs.cache
+C:\Users\teamn\Desktop\Table Wiping(ver2.7) - コピー\Program\RobotController\obj\Debug\RobotCon.B40FEA36.Up2Date
+C:\Users\teamn\Desktop\Table Wiping(ver2.7) - コピー\Program\RobotController\obj\Debug\RobotController.exe
+C:\Users\teamn\Desktop\Table Wiping(ver2.7) - コピー\Program\RobotController\obj\Debug\RobotController.pdb
+C:\Users\brack\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\RobotController.exe.config
+C:\Users\brack\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\RobotController.exe
+C:\Users\brack\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\RobotController.pdb
+C:\Users\brack\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\OpenTK.dll
+C:\Users\brack\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\OpenTK.GLControl.dll
+C:\Users\brack\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\OpenTK.pdb
+C:\Users\brack\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\OpenTK.xml
+C:\Users\brack\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\brack\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\OpenTK.GLControl.xml
+C:\Users\brack\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController.csproj.AssemblyReference.cache
+C:\Users\brack\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\MainWindow.g.cs
+C:\Users\brack\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\Simulator.g.cs
+C:\Users\brack\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\App.g.cs
+C:\Users\brack\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController_MarkupCompile.cache
+C:\Users\brack\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController_MarkupCompile.lref
+C:\Users\brack\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\MainWindow.baml
+C:\Users\brack\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\Simulator.baml
+C:\Users\brack\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController.g.resources
+C:\Users\brack\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController.Properties.Resources.resources
+C:\Users\brack\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController.csproj.GenerateResource.cache
+C:\Users\brack\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController.csproj.CoreCompileInputs.cache
+C:\Users\brack\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController.csproj.CopyComplete
+C:\Users\brack\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController.exe
+C:\Users\brack\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController.pdb
+C:\Users\rikuk\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController.csproj.AssemblyReference.cache
+C:\Users\rikuk\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\MainWindow.g.cs
+C:\Users\rikuk\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\Simulator.g.cs
+C:\Users\rikuk\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\App.g.cs
+C:\Users\rikuk\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController_MarkupCompile.cache
+C:\Users\rikuk\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController_MarkupCompile.lref
+C:\Users\rikuk\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController.exe
+C:\Users\rikuk\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController.pdb
+C:\Users\rikuk\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\RobotController.exe.config
+C:\Users\rikuk\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\RobotController.exe
+C:\Users\rikuk\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\RobotController.pdb
+C:\Users\rikuk\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\OpenTK.dll
+C:\Users\rikuk\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\OpenTK.GLControl.dll
+C:\Users\rikuk\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\OpenTK.pdb
+C:\Users\rikuk\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\OpenTK.xml
+C:\Users\rikuk\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\rikuk\Desktop\Table Wiping(ver2.7)\Program\RobotController\bin\Debug\OpenTK.GLControl.xml
+C:\Users\rikuk\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\MainWindow.baml
+C:\Users\rikuk\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\Simulator.baml
+C:\Users\rikuk\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController.g.resources
+C:\Users\rikuk\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController.Properties.Resources.resources
+C:\Users\rikuk\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController.csproj.GenerateResource.cache
+C:\Users\rikuk\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotController.csproj.CoreCompileInputs.cache
+C:\Users\rikuk\Desktop\Table Wiping(ver2.7)\Program\RobotController\obj\Debug\RobotCon.B40FEA36.Up2Date

@@ -1,0 +1,121 @@
+﻿<Window x:Class="RobotController.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RobotController"
+        mc:Ignorable="d"
+        KeyDown="KeyDownHandler" KeyUp="KeyUpHandler"
+        Title="ControlPanel" Height="800" Width="1200"
+        Background="#001e43"
+        >
+    
+    <Grid>
+        <WindowsFormsHost x:Name="glHost" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="0,0,0,0" Width="550" Height="550"/>
+        <Rectangle x:Name="Guide" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="0,0,0,0" Width="550" Height="550" Stroke="White"/>
+
+
+        <Button x:Name="Button1" Content="Button1" Click="Button1_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,20,0,0" Width="60" Height="40" Focusable="False" Background="DeepSkyBlue" Cursor="Hand"/>
+        <Button x:Name="Button2" Content="Button2" Click="Button2_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,80,0,0" Width="60" Height="40" Focusable="False" Background="DeepSkyBlue" Cursor="Hand"/>
+        <Button x:Name="Button3" Content="Button3" Click="Button3_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,140,0,0" Width="60" Height="40" Focusable="False" Background="DeepSkyBlue" Cursor="Hand"/>
+        <Button x:Name="Button4" Content="Button4" Click="Button4_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,200,0,0" Width="60" Height="40" Focusable="False" Background="DeepSkyBlue" Cursor="Hand"/>
+        <Button x:Name="Button5" Content="Button5" Click="Button5_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,260,0,0" Width="60" Height="40" Focusable="False" Background="DeepSkyBlue" Cursor="Hand"/>
+        <Button x:Name="Button6" Content="Button6" Click="Button6_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="100,20,0,0" Width="60" Height="40" Focusable="False" Background="DeepSkyBlue" Cursor="Hand"/>
+        <Button x:Name="Button7" Content="Button7" Click="Button7_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="100,80,0,0" Width="60" Height="40" Focusable="False" Background="DeepSkyBlue" Cursor="Hand"/>
+        <Button x:Name="Button8" Content="Button8" Click="Button8_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="100,140,0,0" Width="60" Height="40" Focusable="False" Background="DeepSkyBlue" Cursor="Hand"/>
+        <Button x:Name="Button9" Content="Button9" Click="Button9_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="100,200,0,0" Width="60" Height="40" Focusable="False" Background="DeepSkyBlue" Cursor="Hand"/>
+        <Button x:Name="Button10" Content="Button10" Click="Button10_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="100,260,0,0" Width="60" Height="40" Focusable="False" Background="DeepSkyBlue" Cursor="Hand"/>
+        <Button x:Name="Button11" Content="Button11" Click="Button11_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="180,20,0,0" Width="60" Height="40" Focusable="False" Background="DeepSkyBlue" Cursor="Hand"/>
+        <Button x:Name="Button12" Content="Button12" Click="Button12_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="180,80,0,0" Width="60" Height="40" Focusable="False" Background="DeepSkyBlue" Cursor="Hand"/>
+        <Button x:Name="Button13" Content="Button13" Click="Button13_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="180,140,0,0" Width="60" Height="40" Focusable="False" Background="DeepSkyBlue" Cursor="Hand"/>
+        <Button x:Name="Button14" Content="Button14" Click="Button14_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="180,200,0,0" Width="60" Height="40" Focusable="False" Background="DeepSkyBlue" Cursor="Hand"/>
+        <Button x:Name="Button15" Content="Button15" Click="Button15_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="180,260,0,0" Width="60" Height="40" Focusable="False" Background="DeepSkyBlue" Cursor="Hand"/>
+
+
+        <Button x:Name="VirtualDrawButton" Content="Virtual" Click="VirtualDrawButton_Click" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="20,-60,0,0" Width="60" Height="40" Focusable="False" Background="Lime" Cursor="Hand"/>
+        <TextBlock x:Name ="VirtualDrawStatus" Text ="Visible" TextWrapping="Wrap" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="90,-60,0,0" Foreground="White" FontSize="15"/>
+        <Button x:Name="GhostDrawButton" Content="Ghost" Click="GhostDrawButton_Click" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="20,60,0,0" Width="60" Height="40" Focusable="False" Background="Lime" Cursor="Hand"/>
+        <TextBlock x:Name ="GhostDrawStatus" Text ="Visible" TextWrapping="Wrap" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="90,60,0,0" Foreground="White" FontSize="15"/>
+        <Button x:Name="TrajectoryDrawButton" Content="Trajectory" Click="TrajectoryDrawButton_Click" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="20,180,0,0" Width="60" Height="40" Focusable="False" Background="LightSlateGray" Cursor="Hand"/>
+        <TextBlock x:Name ="TrajectoryDrawStatus" Text ="Invisible" TextWrapping="Wrap" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="90,180,0,0" Foreground="White" FontSize="15"/>
+        <Button x:Name="WiperButton" Content="Wiper" Click="WiperButton_Click" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="20,300,0,0" Width="60" Height="40" Focusable="False" Background="LightSlateGray" Cursor="Hand"/>
+        <TextBlock x:Name ="WiperStatus" Text ="OFF" TextWrapping="Wrap" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="90,300,0,0" Foreground="White" FontSize="15"/>
+
+
+        <Button x:Name="ManualButton" Content="Manual" Click="ManualButton_Click" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="180,-60,0,0" Width="60" Height="40" Focusable="False" Background="Lime" Cursor="Hand"/>
+        <TextBlock x:Name ="ManualStatus" Text ="ON" TextWrapping="Wrap" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="250,-60,0,0" Foreground="White" FontSize="15"/>
+        <Button x:Name="PantomimeButton" Content="Pantomime" Click="PantomimeButton_Click" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="180,60,0,0" Width="60" Height="40" Focusable="False" Background="LightSlateGray" FontSize="11" Cursor="Hand"/>
+        <TextBlock x:Name ="PantomimeStatus" Text ="OFF" TextWrapping="Wrap" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="250,60,0,0" Foreground="White" FontSize="15"/>
+        <Button x:Name="AutoVelocityButton" Content="AutoVelocity" Click="AutoVelocityButton_Click" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="180,180,0,0" Width="60" Height="40" Focusable="False" Background="LightSlateGray" FontSize="10" Cursor="Hand"/>
+        <TextBlock x:Name ="AutoVelocityStatus" Text ="OFF" TextWrapping="Wrap" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="250,180,0,0" Foreground="White" FontSize="15"/>
+        <Button x:Name="HandButton" Content="Hand" Click="HandButton_Click" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="180,300,0,0" Width="60" Height="40" Focusable="False" Background="LightSlateGray" Cursor="Hand"/>
+        <TextBlock x:Name ="HandStatus" Text ="Closed" TextWrapping="Wrap" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="250,300,0,0" Foreground="White" FontSize="15"/>
+
+
+        <Button x:Name="PortButton" Content="Port" Click="PortButton_Click" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="20,0,0,140" Width="60" Height="40" Focusable="False" Background="LightSlateGray" Cursor="Hand"/>
+        <TextBlock x:Name ="PortStatus" Text ="Closed" TextWrapping="Wrap" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="90,0,0,150" Foreground="White" FontSize="15"/>
+        <Button x:Name="TorqueButton" Content="Torque" Click="TorqueButton_Click" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="20,0,0,80" Width="60" Height="40" Focusable="False" Background="LightSlateGray" Cursor="Hand"/>
+        <TextBlock x:Name ="TorqueStatus" Text ="OFF" TextWrapping="Wrap" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="90,0,0,90" Foreground="White" FontSize="15"/>
+        <Button x:Name="RinkButton" Content="Rink" Click="RinkButton_Click" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="20,0,0,20" Width="60" Height="40" Focusable="False" Background="LightSlateGray" Cursor="Hand"/>
+        <TextBlock x:Name ="RinkStatus" Text ="OFF" TextWrapping="Wrap" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="90,0,0,30" Foreground="White" FontSize="15"/>
+
+
+        <Button x:Name="ReflectButton" Content="Reflect" Click="ReflectButton_Click" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="180,0,0,80" Width="60" Height="40" Focusable="False" Background="DeepSkyBlue" Cursor="Hand"/>
+        <Button x:Name="TrackButton" Content="Track" Click="TrackButton_Click" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="180,0,0,20" Width="60" Height="40" Focusable="False" Background="DeepSkyBlue" Cursor="Hand"/>
+
+
+        <Button x:Name="GamePadButton" Content="GamePad" Click="GamePadButton_Click" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="-440,0,0,20" Width="60" Height="40" Focusable="False" Background="LightSlateGray" FontSize="11" Cursor="Hand"/>
+        <TextBlock x:Name ="GamePadStatus" Text ="OFF" TextWrapping="Wrap" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="420,0,0,30" Foreground="White" FontSize="15"/>
+
+        
+        <Button x:Name="ResetRobotButton" Content="ResetRobot" Click="ResetRobotButton_Click" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="120,0,0,20" Width="60" Height="40" Focusable="False" Background="DeepSkyBlue" FontSize="11" Cursor="Hand"/>
+        <Button x:Name="ResetViewButton" Content="ResetView" Click="ResetViewButton_Click" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="280,0,0,20" Width="60" Height="40" Focusable="False" Background="DeepSkyBlue" FontSize="11" Cursor="Hand"/>
+        <Button x:Name="ResetAllButton" Content="ResetAll" Click="ResetAllButton_Click" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="440,0,0,20" Width="60" Height="40" Focusable="False" Background="DeepSkyBlue" FontSize="11" Cursor="Hand"/>
+        
+
+        <TextBlock Margin="0,100,260,0" TextWrapping="Wrap" HorizontalAlignment="Right" VerticalAlignment="Top" FontSize="15" TextAlignment="Center" Foreground="White">
+            <Run Text="ID"/>
+            <LineBreak/>
+            <LineBreak/>
+            <Run Text="22"/>
+            <LineBreak/>
+            <Run Text="23"/>
+            <LineBreak/>
+            <Run Text="24"/>
+            <LineBreak/>
+            <Run Text="25"/>
+            <LineBreak/>
+            <Run Text="26"/>
+            <LineBreak/>
+            <Run Text="27"/>
+            <LineBreak/>
+            <Run Text="28"/>
+            <LineBreak/>
+            <Run Text="29"/>
+        </TextBlock>
+
+
+        <TextBlock x:Name = "CurrentStatus" Text = "Hidden"  Margin = "0,65,165,0" TextWrapping="Wrap" HorizontalAlignment="Right" VerticalAlignment="Top" FontSize="15" TextAlignment="Center" Foreground="White"/>
+        <Button x:Name="CurrentDisplayButton" Click="CurrentDisplayButton_Click" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,60,220,0" Width="30" Height="30" Focusable="False" Background="LightSlateGray" Cursor="Hand"/>
+        <TextBlock Margin="0,100,165,0" TextWrapping="Wrap" HorizontalAlignment="Right" VerticalAlignment="Top" FontSize="15" TextAlignment="Center" Foreground="White">
+            <Run Text="Current [mA]"/>
+            <LineBreak/>
+            <LineBreak/>
+            <Run x:Name="TB_Current22" Text="No data"/>
+            <LineBreak/>
+            <Run x:Name="TB_Current23" Text="No data"/>
+            <LineBreak/>
+            <Run x:Name="TB_Current24" Text="No data"/>
+            <LineBreak/>
+            <Run x:Name="TB_Current25" Text="No data"/>
+            <LineBreak/>
+            <Run x:Name="TB_Current26" Text="No data"/>
+            <LineBreak/>
+            <Run x:Name="TB_Current27" Text="No data"/>
+            <LineBreak/>
+            <Run x:Name="TB_Current28" Text="No data"/>
+            <LineBreak/>
+            <Run x:Name="TB_Current29" Text="No data"/>
+        </TextBlock>
+    </Grid>
+</Window>

@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\teamn\\Desktop\\Table Wiping (ver2.7)\\Program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C85C90-3F0B-42EB-947D-DB902895C2CC}|RobotController\\RobotController.csproj|C:\\Users\\teamn\\Desktop\\Table Wiping (ver2.7)\\Program\\robotcontroller\\openrcf\\haoitrajectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C85C90-3F0B-42EB-947D-DB902895C2CC}|RobotController\\RobotController.csproj|solutionrelative:robotcontroller\\openrcf\\haoitrajectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C85C90-3F0B-42EB-947D-DB902895C2CC}|RobotController\\RobotController.csproj|c:\\users\\teamn\\desktop\\table wiping (ver2.7)\\program\\robotcontroller\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C85C90-3F0B-42EB-947D-DB902895C2CC}|RobotController\\RobotController.csproj|solutionrelative:robotcontroller\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C85C90-3F0B-42EB-947D-DB902895C2CC}|RobotController\\RobotController.csproj|C:\\Users\\teamn\\Desktop\\Table Wiping (ver2.7)\\Program\\robotcontroller\\openrcf\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C85C90-3F0B-42EB-947D-DB902895C2CC}|RobotController\\RobotController.csproj|solutionrelative:robotcontroller\\openrcf\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C85C90-3F0B-42EB-947D-DB902895C2CC}|RobotController\\RobotController.csproj|C:\\Users\\teamn\\Desktop\\Table Wiping (ver2.7)\\Program\\robotcontroller\\openrcf\\hglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C85C90-3F0B-42EB-947D-DB902895C2CC}|RobotController\\RobotController.csproj|solutionrelative:robotcontroller\\openrcf\\hglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C85C90-3F0B-42EB-947D-DB902895C2CC}|RobotController\\RobotController.csproj|C:\\Users\\teamn\\Desktop\\Table Wiping (ver2.7)\\Program\\robotcontroller\\openrcf\\harmbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C85C90-3F0B-42EB-947D-DB902895C2CC}|RobotController\\RobotController.csproj|solutionrelative:robotcontroller\\openrcf\\harmbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C85C90-3F0B-42EB-947D-DB902895C2CC}|RobotController\\RobotController.csproj|C:\\Users\\teamn\\Desktop\\Table Wiping (ver2.7)\\Program\\robotcontroller\\openrcf\\hvirtualaoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C85C90-3F0B-42EB-947D-DB902895C2CC}|RobotController\\RobotController.csproj|solutionrelative:robotcontroller\\openrcf\\hvirtualaoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C85C90-3F0B-42EB-947D-DB902895C2CC}|RobotController\\RobotController.csproj|C:\\Users\\teamn\\Desktop\\Table Wiping (ver2.7)\\Program\\robotcontroller\\openrcf\\hghostaoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C85C90-3F0B-42EB-947D-DB902895C2CC}|RobotController\\RobotController.csproj|solutionrelative:robotcontroller\\openrcf\\hghostaoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\teamn\\Desktop\\Table Wiping (ver2.7)\\Program\\RobotController\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RobotController\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\teamn\\Desktop\\Table Wiping (ver2.7)\\Program\\RobotController\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RobotController\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:10:12.293Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HArmBase.cs",
+              "DocumentMoniker": "C:\\Users\\teamn\\Desktop\\Table Wiping (ver2.7)\\Program\\RobotController\\OpenRCF\\HArmBase.cs",
+              "RelativeDocumentMoniker": "RobotController\\OpenRCF\\HArmBase.cs",
+              "ToolTip": "C:\\Users\\teamn\\Desktop\\Table Wiping (ver2.7)\\Program\\RobotController\\OpenRCF\\HArmBase.cs",
+              "RelativeToolTip": "RobotController\\OpenRCF\\HArmBase.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAiwDoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:14:59.167Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HVirtualAoi.cs",
+              "DocumentMoniker": "C:\\Users\\teamn\\Desktop\\Table Wiping (ver2.7)\\Program\\RobotController\\OpenRCF\\HVirtualAoi.cs",
+              "RelativeDocumentMoniker": "RobotController\\OpenRCF\\HVirtualAoi.cs",
+              "ToolTip": "C:\\Users\\teamn\\Desktop\\Table Wiping (ver2.7)\\Program\\RobotController\\OpenRCF\\HVirtualAoi.cs",
+              "RelativeToolTip": "RobotController\\OpenRCF\\HVirtualAoi.cs",
+              "ViewState": "AgIAADoBAAAAAAAAAAAswE4BAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:19:21.289Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HGhostAoi.cs",
+              "DocumentMoniker": "C:\\Users\\teamn\\Desktop\\Table Wiping (ver2.7)\\Program\\RobotController\\OpenRCF\\HGhostAoi.cs",
+              "RelativeDocumentMoniker": "RobotController\\OpenRCF\\HGhostAoi.cs",
+              "ToolTip": "C:\\Users\\teamn\\Desktop\\Table Wiping (ver2.7)\\Program\\RobotController\\OpenRCF\\HGhostAoi.cs",
+              "RelativeToolTip": "RobotController\\OpenRCF\\HGhostAoi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:17:44.716Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HAoiTrajectory.cs",
+              "DocumentMoniker": "C:\\Users\\teamn\\Desktop\\Table Wiping (ver2.7)\\Program\\RobotController\\OpenRCF\\HAoiTrajectory.cs",
+              "RelativeDocumentMoniker": "RobotController\\OpenRCF\\HAoiTrajectory.cs",
+              "ToolTip": "C:\\Users\\teamn\\Desktop\\Table Wiping (ver2.7)\\Program\\RobotController\\OpenRCF\\HAoiTrajectory.cs",
+              "RelativeToolTip": "RobotController\\OpenRCF\\HAoiTrajectory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:13:54.386Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HGlobal.cs",
+              "DocumentMoniker": "C:\\Users\\teamn\\Desktop\\Table Wiping (ver2.7)\\Program\\RobotController\\OpenRCF\\HGlobal.cs",
+              "RelativeDocumentMoniker": "RobotController\\OpenRCF\\HGlobal.cs",
+              "ToolTip": "C:\\Users\\teamn\\Desktop\\Table Wiping (ver2.7)\\Program\\RobotController\\OpenRCF\\HGlobal.cs",
+              "RelativeToolTip": "RobotController\\OpenRCF\\HGlobal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:18:24.051Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\teamn\\Desktop\\Table Wiping (ver2.7)\\Program\\RobotController\\OpenRCF\\Robot.cs",
+              "RelativeDocumentMoniker": "RobotController\\OpenRCF\\Robot.cs",
+              "ToolTip": "C:\\Users\\teamn\\Desktop\\Table Wiping (ver2.7)\\Program\\RobotController\\OpenRCF\\Robot.cs",
+              "RelativeToolTip": "RobotController\\OpenRCF\\Robot.cs",
+              "ViewState": "AgIAAKgCAAAAAAAAAAAIwJwEAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:34:40.655Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
